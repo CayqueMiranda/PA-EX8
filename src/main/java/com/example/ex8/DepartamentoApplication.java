@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ex8Application {
+public class DepartamentoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ex8Application.class, args);
+		SpringApplication.run(DepartamentoApplication.class, args);
 	}
 
 }
